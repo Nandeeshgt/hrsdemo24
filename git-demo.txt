@@ -8,3 +8,10 @@ stash2
 hi
 
 hello
+
+stash 1
+
+
+
+
+stash 3
